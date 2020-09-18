@@ -1,0 +1,2 @@
+name="Diogo"
+print(name)
