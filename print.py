@@ -1,2 +1,0 @@
-name="Diogo"
-print(name)
